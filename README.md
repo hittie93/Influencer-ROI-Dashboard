@@ -64,7 +64,16 @@ pip install -r requirements.txt
 ```bash
 streamlit run app/main.py
 ```
-Open your browser at http://localhost:8501 to access the dashboard.
+Open your browser at  **(https://influencer-roi-dashboard-45.streamlit.app/)** to access the dashboard.
 
 ---
+
+## ⚠️ Disclaimer  
+- This dashboard uses sample influencer campaign data from /data.
+
+- Replace sample CSVs with real campaign data for production use.
+
+- Ensure compliance with data privacy and influencer agreements when using real data. 
+  
+
 
